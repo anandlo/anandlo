@@ -41,10 +41,10 @@ Apache Spark &nbsp;•&nbsp; Databricks &nbsp;•&nbsp; Azure &nbsp;•&nbsp; ET
 *Goal-Conditioned Reinforcement Learning for Data-Driven Maritime Navigation* (Accepted)
 
 **RBC Borealis (Fellowship)**<br>
-Modeled blue carbon asset depletion risks ($225B) using non-stationary Bayesian SDEs.
+Modeled eelgrass trajectories using non-stationary Bayesian analysis.
 
 **TD Bank (Internship)**<br>
-Defined Multi-Agent LLM architectures (MCP) for regulated financial environments.
+Worked on Multi-Agent LLM architectures (MCP) research for regulated financial environments.
 
 <br>
 
