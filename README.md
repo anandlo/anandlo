@@ -1,111 +1,55 @@
-# Hello, World! 🌎 I'm Anand Lo
+<div align="center">
+  <h1>Anand Lo</h1>
+  <h3>ML Researcher &nbsp;|&nbsp; Quantitative Developer</h3>
+  <p>Halifax, NS &nbsp;•&nbsp; <a href="mailto:AnandLo@dal.ca">AnandLo@dal.ca</a></p>
+  <br>
+</div>
 
-Welcome to my GitHub! I'm a **3rd-year Applied Computer Science student w/ Statistics at Dalhousie University**, blending my passion for **data science, machine learning, and software development** with real-world applications. Whether it's predicting coastal erosion, optimizing water management for farmers, or segmenting fish underwater, my projects strive to **make an impact** through innovation and creativity.
+I have experince in **probabilistic models** for biological and financial systems under uncertainty. My work extends stochastic models for asset pricing, spatiotemporal transformers for ecological risk, and domain-generalizable inference for physiological signals.
 
-🏅 **Sexton Scholar | Dean’s List | Entrance Scholarship Recipient**  
-📍 Based in Halifax, Nova Scotia | [Website](https://anandlo.github.io) | [LinkedIn](https://linkedin.com/in/anandlo)
+<br>
 
----
+## Current Focus
 
-## 🎓 Education
+- **Quantitative Developer** @ [Dalhousie Investment Society](https://dalis.ca)<br>
+  *Prototyping stochastic volatility models to stress-test a $20M simulated portfolio against non-stationary market conditions.*
 
-**Dalhousie University, Halifax, NS (2022 – 2026)**  
-- **Bachelor of Applied Computer Science (3.86 GPA)** with a Minor in Statistics  
-- Certificates: **Data Analytics**, **Managing Data**  
-- Relevant Coursework: Machine Learning, Statistical Analysis, Data Analytics, Cloud Computing, Data Structures
+- **ML Researcher** @ MAPS Lab<br>
+  *Developing deep probabilistic frameworks to model ballast-water bioinvasion risk across the North Atlantic.*
 
----
+- **Founding President** @ [Dalhousie Machine Learning Society](https://dmls.ca)<br>
+  *Orchestrating research initiatives and technical curriculum for 200+ members.*
 
-## 🛠 Skills and Tools
+<br>
 
-### **Languages**  
-Python, R, SQL, C, Java, JavaScript, PHP, HTML/CSS  
+## Competencies
 
-### **Frameworks & Libraries**  
-TensorFlow, PyTorch, OpenCV, Scikit-Learn, MediaPipe, U-Net, ConvLSTM, React, Flask, Tailwind CSS  
+**Quantitative Finance**<br>
+Monte Carlo Simulations &nbsp;•&nbsp; Stochastic Calculus (SDEs) &nbsp;•&nbsp; Volatility Surface Modelling &nbsp;•&nbsp; Convex Optimization
 
-### **Tools & Platforms**  
-AWS, OpenShift, Docker, Kubernetes, Git, Tableau, Power BI, Snowflake, Folium, Jira, Confluence  
+**Machine Learning**<br>
+Bayesian Inference &nbsp;•&nbsp; Time Series (ARIMA/Transformers) &nbsp;•&nbsp; PyTorch &nbsp;•&nbsp; Computer Vision (YOLO/SAM2)
 
-### **Certifications**  
-- **IBM Data Science Certified** (2024)  
-- **AWS Certified Cloud Practitioner (CLF-C02)** (2024)  
-- **IBM Containers with Docker, Kubernetes & OpenShift** (2024)
+**Data Engineering**<br>
+Apache Spark &nbsp;•&nbsp; Databricks &nbsp;•&nbsp; Azure &nbsp;•&nbsp; ETL Pipelines &nbsp;•&nbsp; Docker
 
----
+<br>
 
-## 🌟 Featured Projects
+## Select Work
 
-### 🌾 **Farmalytics**  
-A NASA Space Apps 2024 project helping farmers optimize irrigation and mitigate contamination risks:  
-- Built a data pipeline processing over 1GB of NASA Earth Observation data with **Pandas**, **Scikit-learn**, and **XGBoost**.  
-- Achieved R² of 0.83 for contamination risk prediction.  
-- Designed an intuitive user interface using **JavaScript** and **Tailwind CSS**.  
-[View Project](https://github.com/anandlo/Farmalytics)
+**IEEE BigData 2025**<br>
+*Goal-Conditioned Reinforcement Learning for Data-Driven Maritime Navigation* (Accepted)
 
----
+**RBC Borealis (Fellowship)**<br>
+Modeled blue carbon asset depletion risks ($225B) using non-stationary Bayesian SDEs.
 
-### 🐟 **Real-Time Fish Segmentation**  
-- Developed a **U-Net with ConvLSTM** model to segment fish in underwater videos, achieving **99.99% Mean IoU**.  
-- Integrated real-time video processing with **OpenCV** for efficient mask overlays.  
-- Dataset: [DeepFish](https://datasetninja.com/deep-fish) | [Code Repository](https://github.com/anandlo/Fish-Segmentation-Project)
+**TD Bank (Internship)**<br>
+Defined Multi-Agent LLM architectures (MCP) for regulated financial environments.
 
----
+<br>
 
-### 🌊 **Ocean Wave Height Prediction**  
-- Built an **LSTM model** forecasting wave heights at Herring Cove, leveraging time series data of 31,000+ points.  
-- Achieved RMSE of 0.346, offering practical insights for marine safety.  
-[Code Repository](https://github.com/anandlo/Ocean-Wave-Height-Prediction-with-LSTM/tree/main)
-
----
-
-### 📅 **Synked** (Founder)  
-- A startup simplifying scheduling by consolidating Gmail and Outlook emails using NLP to identify key events.  
-- Integrated SMS notifications and iOS Reminders app for seamless task management.  
-- Part of the **Collide Discover 2024 Program**.  
-
----
-
-### 🌍 **Coastal Erosion Analysis**  
-- Analyzed erosion patterns in Nova Scotia using satellite imagery across timeframes.  
-- Trained machine learning models to track depletion rates, creating GIS visualizations.  
-- **Tech Stack**: Python, Google Colab, ArcGIS  
-
----
-
-## 🏆 Achievements
-
-- **NASA Space Apps Challenge Winner (2023)**  
-- Participant in multiple hackathons: **DeepSense Hackathon**, **ShiftKey Labs Gen AI Hackathon**, and more.  
-- Peer Mentor for the **Together@Dal Program**  
-- **BACS Student Representative** (2024-25) for the Dalhousie Computer Science Society  
-
----
-
-## 👥 Experience Highlights
-
-### **Research Intern** (Jan 2024 – Apr 2024)  
-NeuroCognitive Imaging Lab, Dalhousie University  
-- Developed a LiDAR-based brain mapping tool using **RealityKit**, **OpenCV**, and **MediaPipe**.  
-- Enhanced probe positioning accuracy through accelerometer data analysis.  
-
-### **Team Leader** (Nov 2022 – Present)  
-McDonald’s, Halifax, NS  
-- Managed a team of 12+ crew members, fostering a high-performance environment.  
-
----
-
-## 🎯 Currently Working On
-
-- **DeepSense Hackathon**: Predicting coastal changes with ML and satellite imagery.  
-- Exploring **process automation** and **real-time quality checks** using computer vision for supply chain optimization.  
-
----
-
-## 💬 Let’s Connect!
-
-If you’re interested in **collaborations**, **mentorship**, or just a good tech conversation:  
-📧 Email: AnandLo@dal.ca  
-🌐 [Portfolio](https://anandlo.github.io) | [GitHub](https://github.com/anandlo)  
-
-Together, let’s build something impactful!
+<div align="center">
+  <a href="https://linkedin.com/in/anandlo">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/anandlo">GitHub</a> &nbsp;•&nbsp;
+  <a href="https://researchgate.net/profile/Anand-Lo">ResearchGate</a>
+</div>
